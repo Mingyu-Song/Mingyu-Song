@@ -1,5 +1,7 @@
 <div align=left>
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SMG%20GITHUB&fontSize=90)
+
 # 안녕하세요✋
 
 ## 🖥 프론트엔드 개발을 하고있는 송민규입니다.
